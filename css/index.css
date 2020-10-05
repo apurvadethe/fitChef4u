@@ -1,0 +1,133 @@
+/* Title Section */
+#title{
+background-color: #feb72b;
+}
+.container-fluid{
+  padding: 3% 10%;
+}
+.navbar-brand{
+  font-size: 70px;
+  font-family: 'Montserrat', sans-serif;
+}
+.nav-link{
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+.heading{
+  font-size: 60px;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 80px;
+}
+.btn-bm{
+  margin-left: 20px;
+}
+/* Features Section */
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+.feature1{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 15%;
+}
+p{
+  color: #8f8f8f;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+.fa-color{
+  padding: 10%;
+  color: #ffd670;
+}
+.fa-color:hover{
+  color: #feb72b;
+}
+/* Testimonials Section */
+#testimonials{
+  background-color: #feb72b;
+  padding: 6% 15%;
+  text-align: center;
+}
+.carousel-item{
+  padding: 5% 15%;
+}
+.test{
+  font-size: 300%;
+  line-height: 150%;
+    font-family: 'Montserrat', sans-serif;
+}
+.image{
+width: 12%;
+margin-top: 2%;
+border-radius: 100%;
+}
+em{
+  margin-left: 5%;
+}
+/* Sponsers Section */
+#sponsers{
+  text-align: center;
+  background-color: #feb72b;
+  padding: 2% 10%;
+}
+.sponsor-img{
+  width: 15%;
+  margin: 20px;
+}
+/* Pricing Section */
+#pricing{
+  text-align: center;
+  padding: 5% 10%;
+}
+.price-heading{
+  font-size: 300%;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+.row{
+  padding-top: 3%;
+}
+h3{
+  font-weight: bold;
+  font-size: 220%;
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  font-size: 300%;
+}
+.btn-block{
+  font-family: 'Ubuntu', sans-serif;
+}
+/* Call to action */
+#cta{
+  text-align: center;
+  background-color: #feb72b;
+  padding: 6% 16%;
+}
+.cta-heading{
+  font-size: 320%;
+  line-height: 150%;
+    font-family: 'Montserrat', sans-serif;
+}
+.btn-margin{
+  margin-top: 5%;
+}
+/* Footer Section */
+#footer{
+  text-align: center;
+  padding: 5% 15%;
+}
+.social-icon{
+  margin-left: 5%;
+  text-decoration: none;
+  color: black;
+}
+.social-icon:hover{
+  color: darkblue;
+}
+.para{
+  margin-top: 3%;
+  font-size: 180%;
+}
